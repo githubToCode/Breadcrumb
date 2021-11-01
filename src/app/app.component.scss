@@ -1,0 +1,8 @@
+
+
+.breadcrumbs-form-group {
+  display: flex;
+  & > * {
+    margin-left: 10px;
+  }
+}
